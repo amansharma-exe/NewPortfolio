@@ -86,7 +86,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Shashank Mahawar</Logo>
+        <Logo>Aman Sharma</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -102,9 +102,7 @@ function Footer() {
             <LinkedInIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>
-          &copy; 2023 Shashank Mahawar. All rights reserved.
-        </Copyright>
+        <Copyright>&copy; 2024 @AmanSharma. All rights reserved.</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
